@@ -8,7 +8,6 @@ import Post1 from "./pages/Post1";
 import Post2 from "./pages/Post2";
 import Post3 from "./pages/Post3";
 import "./index.css";
-
 function App() {
   return (
     <BrowserRouter>
